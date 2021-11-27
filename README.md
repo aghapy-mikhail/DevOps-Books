@@ -14,6 +14,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Advanced Bash-Scripting Guide [[Download]](/book/Advanced%20Bash-Scripting%20Guide.pdf)
 * API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
 * Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
+* Automation with Ansible [[Download]](https://github.com/amikhail33/DevOps-Books/blob/master/book/Automation%20with%20Ansible.pdf)
 * Automate it! [[Download]](/book/Automate%20it%21.pdf)
 * Automate the Boring Stuff with Python - Al Sweigart [[Download]](/book/Automate%20the%20Boring%20Stuff%20with%20Python%20-%20Al%20Sweigart.epub)
 * Beginning the Linux Command Line [[Download]](/book/Beginning%20the%20Linux%20Command%20Line.pdf)
